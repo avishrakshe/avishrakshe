@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Avish Rakshe</title>
+  <desc id="d">Building payment and trust rails for AI agents.</desc>
+  <style>
+    .bg{fill:#FAFAF7}.edge{stroke:#DAD9D3}.ink{fill:#141416}.muted{fill:#64646C}.accent{fill:#6E56CF}.aline{stroke:#6E56CF}.node{fill:#FAFAF7;stroke:#B9B8B1}.frame{stroke:#E6E5DF}
+    .sans{font-family:ui-sans-serif,-apple-system,"Segoe UI",Inter,Helvetica,Arial,sans-serif}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+  </style>
+  <rect class="bg frame" x="0.5" y="0.5" width="1279" height="319" rx="18" stroke-width="1"/>
+
+  <text class="mono accent" x="72" y="86" font-size="13" letter-spacing="2.4">FULL-STACK · SMART CONTRACTS · DESIGN</text>
+  <text class="sans ink" x="70" y="156" font-size="64" font-weight="650" letter-spacing="-1.6">Avish Rakshe</text>
+  <text class="sans muted" x="72" y="200" font-size="24">Building payment &amp; trust rails for AI agents.</text>
+  <text class="mono muted" x="72" y="258" font-size="13" letter-spacing="2">MONAD · SOLANA · AVALANCHE · MIDNIGHT · STELLAR · SOMNIA · BASE</text>
+
+  <!-- agents paying agents -->
+  <g fill="none" stroke-width="1.5">
+    <line class="edge" x1="880" y1="110" x2="940" y2="232"/>
+    <line class="edge" x1="1010" y1="70" x2="1150" y2="122"/>
+    <line class="edge" x1="940" y1="232" x2="1090" y2="240"/>
+    <line class="edge" x1="1150" y1="122" x2="1090" y2="240"/>
+    <line class="edge" x1="1150" y1="122" x2="1205" y2="212"/>
+    <line class="aline" x1="880" y1="110" x2="1010" y2="70" stroke-width="2"/>
+    <line class="aline" x1="1010" y1="70" x2="1090" y2="240" stroke-width="2"/>
+    <line class="aline" x1="1090" y1="240" x2="1205" y2="212" stroke-width="2" stroke-dasharray="5 5"/>
+  </g>
+  <g stroke-width="1.5">
+    <circle class="node" cx="880" cy="110" r="9"/>
+    <circle class="node" cx="940" cy="232" r="7"/>
+    <circle class="node" cx="1150" cy="122" r="7"/>
+    <circle class="accent" cx="1010" cy="70" r="9"/>
+    <circle class="accent" cx="1090" cy="240" r="9"/>
+    <circle class="node" cx="1205" cy="212" r="9" stroke="#6E56CF"/>
+  </g>
+  <text class="mono muted" x="926" y="78" font-size="12">402</text>
+  <text class="mono muted" x="1062" y="152" font-size="12">$0.001</text>
+  <text class="mono accent" x="1132" y="262" font-size="12">settled</text>
+</svg>
